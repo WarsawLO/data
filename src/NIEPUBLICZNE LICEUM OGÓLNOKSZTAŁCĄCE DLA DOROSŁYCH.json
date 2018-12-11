@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "NIEPUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "teresamac@interia.pl",
+        "fax": "",
+        "phone": "502279780",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Józefa Szanajcy",
+        "houseNumber": "5"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Mac Teresa",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2014-07-16T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "147376062"
+    }
+}

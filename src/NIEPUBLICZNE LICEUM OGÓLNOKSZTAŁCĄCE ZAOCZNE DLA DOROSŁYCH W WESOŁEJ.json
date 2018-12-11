@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "NIEPUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE ZAOCZNE DLA DOROSŁYCH W WESOŁEJ",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "603658958",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Kruszyny",
+        "houseNumber": "14a"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Grzywacz Michał",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2006-05-10T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146572861"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH \"PROGRES\" W WARSZAWIE",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "228280049",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Smolna",
+        "houseNumber": "13"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Ogólnopolski Ośrodek Rozwoju Zowodowego Progres Sp. z o.o.",
+            "type": "Spółki Handlowe"
+        },
+        "parent": "",
+        "capitalOwner": "Pozostałe Krajowe Jednostki Prywatne",
+        "establishmentDate": "2004-07-28T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146436595"
+    }
+}

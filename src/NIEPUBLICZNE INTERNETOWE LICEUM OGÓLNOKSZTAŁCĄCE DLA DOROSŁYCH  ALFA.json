@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "NIEPUBLICZNE INTERNETOWE LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH  ALFA",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "606730580",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Antoniego Józefa Madalińskiego",
+        "houseNumber": "22"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Bernaś-Kostynowicz Alicja",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2010-05-17T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146333524"
+    }
+}

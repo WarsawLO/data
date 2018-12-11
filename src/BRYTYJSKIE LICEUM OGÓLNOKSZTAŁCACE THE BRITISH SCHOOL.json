@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "BRYTYJSKIE LICEUM OGÓLNOKSZTAŁCACE THE BRITISH SCHOOL",
+        "short": ""
+    },
+    "contact": {
+        "email": "british@thebritishschool.pl",
+        "fax": "228423265",
+        "phone": "228423265",
+        "website": "www.thebritishschool.pl"
+    },
+    "students": {
+        "type": "youth",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Bolesława Limanowskiego",
+        "houseNumber": "15"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": false,
+        "leadingOrgan": {
+            "name": "The British School Sp. z o.o.",
+            "type": "Spółki Handlowe"
+        },
+        "parent": "",
+        "capitalOwner": "Pozostałe Krajowe Jednostki Prywatne",
+        "establishmentDate": "2001-09-01T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146548733"
+    }
+}

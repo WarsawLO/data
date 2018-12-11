@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "NIEPUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH W WARSZAWIE",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "501388417",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Strumykowa",
+        "houseNumber": "21"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Komorska Krystyna",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2009-02-07T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146330974"
+    }
+}

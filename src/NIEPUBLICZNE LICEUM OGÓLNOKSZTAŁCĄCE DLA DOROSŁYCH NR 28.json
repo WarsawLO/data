@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "NIEPUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH NR 28",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "228753195",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Stefana Batorego",
+        "houseNumber": "14"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Krystyna Miller",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2008-08-11T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146326560"
+    }
+}

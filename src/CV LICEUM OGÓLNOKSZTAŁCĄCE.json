@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "CV LICEUM OGÓLNOKSZTAŁCĄCE",
+        "short": "CV LO"
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "228844381",
+        "website": ""
+    },
+    "students": {
+        "type": "youth",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Vincenta van Gogha",
+        "houseNumber": "1"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "BIAŁOŁĘKA",
+            "type": "Gmina"
+        },
+        "parent": "ZESPÓŁ SZKÓŁ NR 106",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "1997-05-06T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "15765277"
+    }
+}

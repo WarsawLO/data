@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "CIV LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": "CIV LO DLA DOROSŁYCH"
+    },
+    "contact": {
+        "email": "bgiziewicz@edu.um.warszawa.pl",
+        "fax": "228187001",
+        "phone": "226195644",
+        "website": "www.cku.waw.pl"
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Mińska",
+        "houseNumber": "1/5"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "PRAGA-POŁUDNIE",
+            "type": "Gmina"
+        },
+        "parent": "CENTRUM KSZTAŁCENIA USTAWICZNEGO NR 5",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "2004-05-27T00:00:00",
+        "dependence": "szkoła/placówka wchodząca w skład jednostki złożonej",
+        "regon": "15807685"
+    }
+}

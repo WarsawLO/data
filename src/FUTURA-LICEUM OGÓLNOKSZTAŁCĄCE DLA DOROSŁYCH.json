@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "FUTURA-LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "228929906",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Widok",
+        "houseNumber": "5/7/9"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Futura Edukacja Sp. z o.o.",
+            "type": "Spółki Handlowe"
+        },
+        "parent": "",
+        "capitalOwner": "Pozostałe Krajowe Jednostki Prywatne",
+        "establishmentDate": "2008-07-29T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146331117"
+    }
+}

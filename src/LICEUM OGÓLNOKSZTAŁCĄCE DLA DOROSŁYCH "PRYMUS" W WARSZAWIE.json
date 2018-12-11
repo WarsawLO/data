@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH \"PRYMUS\" W WARSZAWIE",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "601245946",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Świętokrzyska",
+        "houseNumber": "18a"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Jóźwiak Karolina",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2004-08-16T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146327676"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "NIEPUBLICZNE LICEUM  OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH W WARSZAWIE",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "224239027 , 607133299",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Gubinowska",
+        "houseNumber": "28"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Laskowska Milada",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2014-09-24T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "147430577"
+    }
+}

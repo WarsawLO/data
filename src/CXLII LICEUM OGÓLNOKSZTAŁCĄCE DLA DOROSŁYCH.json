@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "CXLII LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "228387021",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "al. Jana Pawła II",
+        "houseNumber": "69"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "WOLA",
+            "type": "Gmina"
+        },
+        "parent": "ZESPÓŁ SZKÓŁ SAMOCHODOWYCH I LICEALNYCH NR 2",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "2013-08-31T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "146816576"
+    }
+}

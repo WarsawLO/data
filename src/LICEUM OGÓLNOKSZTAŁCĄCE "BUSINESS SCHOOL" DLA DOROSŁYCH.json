@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE \"BUSINESS SCHOOL\" DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "22864-47-47",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Bagatela",
+        "houseNumber": "13"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Polak Hanna",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "BUSINESS SCHOOL",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2007-09-01T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "146328569"
+    }
+}

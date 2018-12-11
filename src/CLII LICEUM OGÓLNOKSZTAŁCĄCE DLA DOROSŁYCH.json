@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "CLII LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": "CLII LO"
+    },
+    "contact": {
+        "email": "zs_27@wp.pl",
+        "fax": "228436681",
+        "phone": "228436681-83",
+        "website": "www.zs27.edupage.org"
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Wincentego Rzymowskiego",
+        "houseNumber": "38"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "MOKOTÓW",
+            "type": "Gmina"
+        },
+        "parent": "ZESPÓŁ SZKÓŁ NR 27",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "2014-09-01T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "147493572"
+    }
+}

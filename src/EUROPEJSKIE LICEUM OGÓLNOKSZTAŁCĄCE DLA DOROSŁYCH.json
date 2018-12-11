@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "EUROPEJSKIE LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "226762188",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Stanisława Witkiewicza",
+        "houseNumber": "16"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Andrulewicz Monika",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2004-09-01T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146326582"
+    }
+}

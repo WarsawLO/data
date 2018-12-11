@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE - SZKOŁA GŁÓWNA BIZNESU",
+        "short": ""
+    },
+    "contact": {
+        "email": "sekretariat@biznesszkola.pl",
+        "fax": "228393041",
+        "phone": "228393041",
+        "website": "www.biznesszkola.pl"
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Alojzego Felińskiego",
+        "houseNumber": "15"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Kapłon Ewa",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2012-09-01T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146312309"
+    }
+}

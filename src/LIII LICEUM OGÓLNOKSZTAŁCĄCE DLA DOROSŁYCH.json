@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "LIII LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "sekretariat@cku1.edu.pl",
+        "fax": "228256915",
+        "phone": "228256915",
+        "website": "www.cku1.edu.pl"
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Stanisława Noakowskiego",
+        "houseNumber": "6"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "ŚRÓDMIEŚCIE",
+            "type": "Gmina"
+        },
+        "parent": "CENTRUM KSZTAŁCENIA USTAWICZNEGO",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "2004-09-01T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "15827742"
+    }
+}

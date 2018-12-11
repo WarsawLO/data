@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "AP EDUKACJA - LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH W WARSZAWIE",
+        "short": ""
+    },
+    "contact": {
+        "email": "",
+        "fax": "",
+        "phone": "506080587",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Chmielna",
+        "houseNumber": "26"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "AP Edukacja Sp. z o.o.",
+            "type": "Spółki Handlowe"
+        },
+        "parent": "",
+        "capitalOwner": "Pozostałe Krajowe Jednostki Prywatne",
+        "establishmentDate": "2005-03-15T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146473521"
+    }
+}

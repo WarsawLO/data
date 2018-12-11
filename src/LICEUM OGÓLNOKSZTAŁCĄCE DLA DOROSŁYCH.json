@@ -1,0 +1,124 @@
+{
+    "0": {
+        "kind": "E",
+        "path": [
+            "contact",
+            "email"
+        ],
+        "lhs": "tgu@tgu.edu.pl",
+        "rhs": ""
+    },
+    "1": {
+        "kind": "E",
+        "path": [
+            "contact",
+            "fax"
+        ],
+        "lhs": "228103707",
+        "rhs": ""
+    },
+    "2": {
+        "kind": "E",
+        "path": [
+            "contact",
+            "phone"
+        ],
+        "lhs": "696047867 , 228103707",
+        "rhs": "226193225"
+    },
+    "3": {
+        "kind": "E",
+        "path": [
+            "location",
+            "street"
+        ],
+        "lhs": "ul. Targowa",
+        "rhs": "ul. Kaleńska"
+    },
+    "4": {
+        "kind": "E",
+        "path": [
+            "location",
+            "houseNumber"
+        ],
+        "lhs": "86",
+        "rhs": "3"
+    },
+    "5": {
+        "kind": "E",
+        "path": [
+            "meta",
+            "public"
+        ],
+        "lhs": "publicPrivileges",
+        "rhs": false
+    },
+    "6": {
+        "kind": "E",
+        "path": [
+            "meta",
+            "leadingOrgan",
+            "name"
+        ],
+        "lhs": "Pawlak Maria",
+        "rhs": "Mydłowska Beata"
+    },
+    "7": {
+        "kind": "E",
+        "path": [
+            "meta",
+            "establishmentDate"
+        ],
+        "lhs": "2013-09-01T00:00:00",
+        "rhs": "2004-09-30T00:00:00"
+    },
+    "8": {
+        "kind": "E",
+        "path": [
+            "meta",
+            "regon"
+        ],
+        "lhs": "146843580",
+        "rhs": "146330170"
+    },
+    "name": {
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "tgu@tgu.edu.pl",
+        "fax": "228103707",
+        "phone": "696047867 , 228103707",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Targowa",
+        "houseNumber": "86"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": "publicPrivileges",
+        "leadingOrgan": {
+            "name": "Pawlak Maria",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2013-09-01T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146843580"
+    }
+}a Sp. z o.o.",
+            "type": "Spółki Handlowe"
+        },
+        "parent": "",
+        "capitalOwner": "Pozostałe Krajowe Jednostki Prywatne",
+        "establishmentDate": "2014-09-22T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "147424967"
+    }
+}

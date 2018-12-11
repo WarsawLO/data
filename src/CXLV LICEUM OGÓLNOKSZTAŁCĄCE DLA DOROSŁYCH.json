@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "CXLV LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "sekretariat@ogrodowa.edu.pl , sekretariat@ogrodowa.edu.pl",
+        "fax": "226204580 , 226204580",
+        "phone": "226205051 , 226205052 , 226205051 , 226205052",
+        "website": "www.ogrodowa.edu.pl , www.ogrodowa.edu.pl"
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Ogrodowa",
+        "houseNumber": "16"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "WOLA",
+            "type": "Gmina"
+        },
+        "parent": "ZESPÓŁ SZKÓŁ STENOTYPII I JĘZYKÓW OBCYCH",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "2013-09-01T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "146803906"
+    }
+}

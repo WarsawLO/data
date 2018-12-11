@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH ZACISZE",
+        "short": ""
+    },
+    "contact": {
+        "email": "sekretariat@ckzacisze.edu.pl",
+        "fax": "",
+        "phone": "226786056",
+        "website": ""
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Tużycka",
+        "houseNumber": "2"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": false,
+        "leadingOrgan": {
+            "name": "Dąbrowa Lidia",
+            "type": "Osoba fizyczna"
+        },
+        "parent": "",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2013-09-09T00:00:00",
+        "dependence": "samodzielna",
+        "regon": "146973778"
+    }
+}

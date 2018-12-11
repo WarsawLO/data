@@ -1,0 +1,33 @@
+{
+    "name": {
+        "full": "CXLIV LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH",
+        "short": ""
+    },
+    "contact": {
+        "email": "zs@kasprzak.edu.pl , zs@kasprzak.edu.pl",
+        "fax": "226314010 , 226314010",
+        "phone": "226320211 , 226320211",
+        "website": "www.kasprzak.edu.pl , www.kasprzak.edu.pl"
+    },
+    "students": {
+        "type": "adults",
+        "dominantDisability": null
+    },
+    "location": {
+        "street": "ul. Marcina Kasprzaka",
+        "houseNumber": "19/21"
+    },
+    "meta": {
+        "schoolType": "Liceum ogólnokształcące",
+        "public": true,
+        "leadingOrgan": {
+            "name": "WOLA",
+            "type": "Gmina"
+        },
+        "parent": "ZESPÓŁ SZKÓŁ NR 36 IM. MARCINA KASPRZAKA",
+        "capitalOwner": "Jednostki Samorządu Terytorialnego",
+        "establishmentDate": "2013-09-01T00:00:00",
+        "dependence": "szkoła lub placówka w zespole",
+        "regon": "146803830"
+    }
+}
