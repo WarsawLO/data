@@ -6,7 +6,10 @@ const apiUrl = 'https://api.um.warszawa.pl/api/action/datastore_search/?resource
 
 module.exports = (schoolType) => new Promise(resolve => {
     schoolType = schoolType ? schoolType : 'Liceum ogólnokształcące'
-    let url = `${apiUrl}&filters={"${encodeURIComponent("Typ placówki")}":"${encodeURIComponent(schoolType)}"}`
+    let url = `${apiUrl}&filters={`
+    url += `"${encodeURIComponent("Typ placówki")}":"${encodeURIComponent(schoolType)}",`
+    url += `"${encodeURIComponent("Kategoria uczniów")}":"${encodeURIComponent('Dzieci lub młodzież')}"`
+    url += '}'
     hyperquest(url)
     .pipe(JSONStream.parse('result.total'))
     .pipe(es.mapSync(total => {
@@ -18,10 +21,8 @@ module.exports = (schoolType) => new Promise(resolve => {
           hyperquest(`${url}&offset=${i*100}`)
           .pipe(JSONStream.parse('result.records.*'))
           .pipe(es.mapSync(school => {
-            if(!"Ulica" in school | !"Nr domu" in school){
+            if(!"Ulica" in school | !"Nr domu" in school)
             missingData.push(school['Nazwa placówki'])
-            }
-            console.log(school)
             return school
           }))
         )

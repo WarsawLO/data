@@ -6,6 +6,9 @@
   "repository": "https://github.com/WarsawLO/data",
   "author": "WarsawLO",
   "private": true,
+  "scripts": {
+    "build": "node . -o"
+  },
   "dependencies": {
     "commander": "^2.19.0",
     "hyperquest": "^2.1.3"

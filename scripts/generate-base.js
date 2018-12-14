@@ -18,13 +18,13 @@ const generateBase = () => new Promise((resolve, reject) => {
     getSchools()
   ])
   .then(([table, {stream}]) => {
-    console.log('xd')
     stream.on('error', reject)
         stream
               .pipe(format())
-              // .pipe(getThresholdsFromTable(table))
-              // .pipe(getLocation())
+              .pipe(getThresholdsFromTable(table))
+              .pipe(getLocation())
               .pipe(es.mapSync(school => {
+                console.log(school)
                 console.log(`Done: ${school.name.full}`)
                 return school
               }))

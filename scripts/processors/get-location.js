@@ -3,7 +3,8 @@ const dotenv = require('dotenv')
 const es = require('event-stream')
 
 dotenv.config()
-
+if(!('HERE_APP_ID' in process.env) || !('HERE_APP_CODE' in process.env))
+  throw new Error('Here API creds missing')
 const hmAPI = new HereMapsAPI({
   app_id: process.env.HERE_APP_ID,
   app_code: process.env.HERE_APP_CODE
