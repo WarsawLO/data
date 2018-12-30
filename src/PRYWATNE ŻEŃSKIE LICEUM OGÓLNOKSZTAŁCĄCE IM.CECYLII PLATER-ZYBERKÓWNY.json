@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Piękna",
-        "houseNumber": "24/26"
+        "position": {
+            "Latitude": 52.22382,
+            "Longitude": 21.01814
+        },
+        "address": {
+            "Label": "ulica Piękna 24/26, 00-547 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Śródmieście",
+            "Subdistrict": "Śródmieście Południowe",
+            "Street": "ulica Piękna",
+            "HouseNumber": "24/26",
+            "PostalCode": "00-547",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

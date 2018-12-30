@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "al. Stanów Zjednoczonych",
-        "houseNumber": "24"
+        "position": {
+            "Latitude": 52.22905,
+            "Longitude": 21.06643
+        },
+        "address": {
+            "Label": "aleja Stanów Zjednoczonych 24, 03-965 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Południe",
+            "Subdistrict": "Saska Kępa",
+            "Street": "aleja Stanów Zjednoczonych",
+            "HouseNumber": "24",
+            "PostalCode": "03-965",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,26 @@
         "establishmentDate": "1995-07-10T00:00:00",
         "dependence": "szkoła lub placówka w zespole",
         "regon": "15496601"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "pol",
+                    "hist"
+                ],
+                88.6
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "pol",
+                "hist"
+            ],
+            "pointsRange": [
+                200,
+                88.6
+            ]
+        }
     }
 }

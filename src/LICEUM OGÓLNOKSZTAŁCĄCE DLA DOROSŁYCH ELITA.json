@@ -1,12 +1,12 @@
 {
     "name": {
-        "full": "PRYWATNE LICEUM OGÓLNOKSZTAŁCĄCE PRO-BEANUS",
+        "full": "LICEUM OGÓLNOKSZTAŁCĄCE DLA DOROSŁYCH ELITA",
         "short": ""
     },
     "contact": {
         "email": "",
         "fax": "",
-        "phone": "226687197",
+        "phone": "225177740",
         "website": ""
     },
     "students": {
@@ -15,20 +15,20 @@
     },
     "location": {
         "position": {
-            "Latitude": 52.24213,
-            "Longitude": 20.94478
+            "Latitude": 52.23736,
+            "Longitude": 21.07914
         },
         "address": {
-            "Label": "ulica Erazma Ciołka 13, 01-445 Warszawa, Polska",
+            "Label": "aleja Stanów Zjednoczonych 51, 04-026 Warszawa, Polska",
             "Country": "POL",
             "State": "Woj. Mazowieckie",
             "County": "Warszawa",
             "City": "Warszawa",
-            "District": "Wola",
-            "Subdistrict": "Koło",
-            "Street": "ulica Erazma Ciołka",
-            "HouseNumber": "13",
-            "PostalCode": "01-445",
+            "District": "Praga-Południe",
+            "Subdistrict": "Grochów",
+            "Street": "aleja Stanów Zjednoczonych",
+            "HouseNumber": "51",
+            "PostalCode": "04-026",
             "AdditionalData": [
                 {
                     "value": "Polska",
@@ -49,13 +49,13 @@
         "schoolType": "Liceum ogólnokształcące",
         "public": "publicPrivileges",
         "leadingOrgan": {
-            "name": "PRO-BEANUS SP. Z O.O",
-            "type": "Spółki Handlowe"
+            "name": "Depczyk Zofia",
+            "type": "Osoba fizyczna"
         },
         "parent": "",
-        "capitalOwner": "Pozostałe Krajowe Jednostki Prywatne",
-        "establishmentDate": "2002-11-15T00:00:00",
+        "capitalOwner": "Krajowe Osoby Fizyczne",
+        "establishmentDate": "2004-08-20T00:00:00",
         "dependence": "samodzielna",
-        "regon": "146401243"
+        "regon": "146439613"
     }
 }

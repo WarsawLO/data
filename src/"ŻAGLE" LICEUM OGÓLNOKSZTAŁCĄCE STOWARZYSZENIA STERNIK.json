@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Mieczysława Pożaryskiego",
-        "houseNumber": "28"
+        "position": {
+            "Latitude": 52.20712,
+            "Longitude": 21.17389
+        },
+        "address": {
+            "Label": "ulica Mieczysława Pożaryskiego 28, 04-703 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Wawer",
+            "Subdistrict": "Międzylesie",
+            "Street": "ulica Mieczysława Pożaryskiego",
+            "HouseNumber": "28",
+            "PostalCode": "04-703",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

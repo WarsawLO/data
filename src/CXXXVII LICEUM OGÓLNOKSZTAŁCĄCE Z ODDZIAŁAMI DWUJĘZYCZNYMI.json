@@ -14,8 +14,35 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Olgierda",
-        "houseNumber": "35"
+        "position": {
+            "Latitude": 52.27259,
+            "Longitude": 21.04508
+        },
+        "address": {
+            "Label": "ulica Olgierda, 03-535 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Targówek",
+            "Subdistrict": "Targówek Mieszkaniowy",
+            "Street": "ulica Olgierda",
+            "PostalCode": "03-535",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

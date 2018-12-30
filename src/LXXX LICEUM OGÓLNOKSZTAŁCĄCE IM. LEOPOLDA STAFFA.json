@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Wiśniowa",
-        "houseNumber": "56"
+        "position": {
+            "Latitude": 52.21031,
+            "Longitude": 21.01398
+        },
+        "address": {
+            "Label": "ulica Wiśniowa 56, 02-520 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Mokotów",
+            "Subdistrict": "Stary Mokotów",
+            "Street": "ulica Wiśniowa",
+            "HouseNumber": "56",
+            "PostalCode": "02-520",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,36 @@
         "establishmentDate": "2002-09-01T00:00:00",
         "dependence": "szkoła/placówka wchodząca w skład jednostki złożonej",
         "regon": "15228823"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "ang",
+                    "mat",
+                    "inf"
+                ],
+                142.4
+            ],
+            [
+                [
+                    "ang",
+                    "mat",
+                    "inf"
+                ],
+                133.6
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "ang",
+                "mat",
+                "inf"
+            ],
+            "pointsRange": [
+                133.6,
+                142.4
+            ]
+        }
     }
 }

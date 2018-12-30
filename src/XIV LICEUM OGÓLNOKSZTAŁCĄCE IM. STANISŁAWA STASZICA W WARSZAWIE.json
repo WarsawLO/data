@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Nowowiejska",
-        "houseNumber": "37a"
+        "position": {
+            "Latitude": 52.2199,
+            "Longitude": 21.00275
+        },
+        "address": {
+            "Label": "ulica Nowowiejska 37A, 02-010 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Ochota",
+            "Subdistrict": "Filtry",
+            "Street": "ulica Nowowiejska",
+            "HouseNumber": "37A",
+            "PostalCode": "02-010",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

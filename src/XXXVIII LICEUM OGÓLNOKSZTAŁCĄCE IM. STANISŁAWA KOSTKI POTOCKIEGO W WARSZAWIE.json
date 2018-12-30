@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Wiertnicza",
-        "houseNumber": "26"
+        "position": {
+            "Latitude": 52.16892,
+            "Longitude": 21.08483
+        },
+        "address": {
+            "Label": "ulica Wiertnicza 26, 02-952 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Wilanów",
+            "Subdistrict": "Wilanów Królewski",
+            "Street": "ulica Wiertnicza",
+            "HouseNumber": "26",
+            "PostalCode": "02-952",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Szczęśliwicka",
-        "houseNumber": "33a"
+        "position": {
+            "Latitude": 52.21441,
+            "Longitude": 20.97057
+        },
+        "address": {
+            "Label": "ulica Szczęśliwicka 33A, 02-353 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Ochota",
+            "Subdistrict": "Stara Ochota",
+            "Street": "ulica Szczęśliwicka",
+            "HouseNumber": "33A",
+            "PostalCode": "02-353",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

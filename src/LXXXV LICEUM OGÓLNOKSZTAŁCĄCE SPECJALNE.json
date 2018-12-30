@@ -14,8 +14,36 @@
         "dominantDisability": "zagrożeni niedostosowaniem społecznym"
     },
     "location": {
-        "street": "ul. Zorzy",
-        "houseNumber": "17"
+        "position": {
+            "Latitude": 52.21661,
+            "Longitude": 21.16915
+        },
+        "address": {
+            "Label": "ulica Zorzy 17, 04-639 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Wawer",
+            "Subdistrict": "Anin",
+            "Street": "ulica Zorzy",
+            "HouseNumber": "17",
+            "PostalCode": "04-639",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

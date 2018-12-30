@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Szczawnicka",
-        "houseNumber": "1"
+        "position": {
+            "Latitude": 52.2395,
+            "Longitude": 21.0873
+        },
+        "address": {
+            "Label": "ulica Szczawnicka 1, 04-089 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Południe",
+            "Subdistrict": "Grochów",
+            "Street": "ulica Szczawnicka",
+            "HouseNumber": "1",
+            "PostalCode": "04-089",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

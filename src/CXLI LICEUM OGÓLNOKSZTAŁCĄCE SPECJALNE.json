@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "al. Władysława Stanisława Reymonta",
-        "houseNumber": "16"
+        "position": {
+            "Latitude": 52.27604,
+            "Longitude": 20.93909
+        },
+        "address": {
+            "Label": "aleja Władysława Reymonta 16, 01-840 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Bielany",
+            "Subdistrict": "Stare Bielany",
+            "Street": "aleja Władysława Reymonta",
+            "HouseNumber": "16",
+            "PostalCode": "01-840",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

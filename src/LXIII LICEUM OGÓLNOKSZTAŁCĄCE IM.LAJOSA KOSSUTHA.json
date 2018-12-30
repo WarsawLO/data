@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Ludwika Hirszfelda",
-        "houseNumber": "11"
+        "position": {
+            "Latitude": 52.1447,
+            "Longitude": 21.04085
+        },
+        "address": {
+            "Label": "ulica Ludwika Hirszfelda 11, 02-776 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Ursynów",
+            "Subdistrict": "Ursynów Centrum",
+            "Street": "ulica Ludwika Hirszfelda",
+            "HouseNumber": "11",
+            "PostalCode": "02-776",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

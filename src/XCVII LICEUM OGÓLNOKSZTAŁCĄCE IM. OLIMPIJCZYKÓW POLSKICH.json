@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Siennicka",
-        "houseNumber": "15"
+        "position": {
+            "Latitude": 52.24643,
+            "Longitude": 21.07722
+        },
+        "address": {
+            "Label": "ulica Siennicka 15, 04-395 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Południe",
+            "Subdistrict": "Grochów",
+            "Street": "ulica Siennicka",
+            "HouseNumber": "15",
+            "PostalCode": "04-395",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,33 @@
         "establishmentDate": "1996-09-01T00:00:00",
         "dependence": "szkoła lub placówka w zespole",
         "regon": "15810598"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "biol",
+                    "ang"
+                ],
+                388
+            ],
+            [
+                [
+                    "biol",
+                    "ang"
+                ],
+                82
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "biol",
+                "ang"
+            ],
+            "pointsRange": [
+                82,
+                388
+            ]
+        }
     }
 }

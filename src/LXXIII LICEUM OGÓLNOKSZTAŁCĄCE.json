@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Promienista",
-        "houseNumber": "12A"
+        "position": {
+            "Latitude": 52.20998,
+            "Longitude": 20.90402
+        },
+        "address": {
+            "Label": "ulica Promienista 12A, 02-428 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Włochy",
+            "Subdistrict": "Nowe Włochy",
+            "Street": "ulica Promienista",
+            "HouseNumber": "12A",
+            "PostalCode": "02-428",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

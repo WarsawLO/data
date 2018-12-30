@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Fryderyka Joliot-Curie",
-        "houseNumber": "13"
+        "position": {
+            "Latitude": 52.19288,
+            "Longitude": 21.00995
+        },
+        "address": {
+            "Label": "ulica Fryderyka Joliot-Curie 13, 02-646 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Mokotów",
+            "Subdistrict": "Wierzbno",
+            "Street": "ulica Fryderyka Joliot-Curie",
+            "HouseNumber": "13",
+            "PostalCode": "02-646",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

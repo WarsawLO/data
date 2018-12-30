@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Szczęśliwicka",
-        "houseNumber": "50/54"
+        "position": {
+            "Latitude": 52.21587,
+            "Longitude": 20.96802
+        },
+        "address": {
+            "Label": "ulica Szczęśliwicka 50/54, 02-327 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Ochota",
+            "Subdistrict": "Stara Ochota",
+            "Street": "ulica Szczęśliwicka",
+            "HouseNumber": "50/54",
+            "PostalCode": "02-327",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Anieli Krzywoń",
-        "houseNumber": "3"
+        "position": {
+            "Latitude": 52.22698,
+            "Longitude": 20.91863
+        },
+        "address": {
+            "Label": "ulica Anieli Krzywoń 3, 01-391 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Bemowo",
+            "Subdistrict": "Jelonki Południowe",
+            "Street": "ulica Anieli Krzywoń",
+            "HouseNumber": "3",
+            "PostalCode": "01-391",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Zwycięzców",
-        "houseNumber": "7/9"
+        "position": {
+            "Latitude": 52.23085,
+            "Longitude": 21.05234
+        },
+        "address": {
+            "Label": "ulica Zwycięzców 7/9, 03-936 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Południe",
+            "Subdistrict": "Saska Kępa",
+            "Street": "ulica Zwycięzców",
+            "HouseNumber": "7/9",
+            "PostalCode": "03-936",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,66 @@
         "establishmentDate": "1922-09-01T00:00:00",
         "dependence": "szkoła lub placówka w zespole",
         "regon": "13238993"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "mat",
+                    "geogr",
+                    "wos"
+                ],
+                167.09
+            ],
+            [
+                [
+                    "biol",
+                    "chem"
+                ],
+                160.4
+            ],
+            [
+                [
+                    "geogr",
+                    "mat"
+                ],
+                155.6
+            ],
+            [
+                [
+                    "mat",
+                    "ang"
+                ],
+                156.8
+            ],
+            [
+                [
+                    "biol",
+                    "mat"
+                ],
+                155.6
+            ],
+            [
+                [
+                    "pol"
+                ],
+                153
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "mat",
+                "geogr",
+                "wos",
+                "biol",
+                "chem",
+                "ang",
+                "pol"
+            ],
+            "pointsRange": [
+                153,
+                167.09
+            ]
+        }
     }
 }

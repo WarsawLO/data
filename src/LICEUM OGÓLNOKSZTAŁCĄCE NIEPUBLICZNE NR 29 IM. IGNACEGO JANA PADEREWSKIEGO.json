@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Powązkowska",
-        "houseNumber": "90"
+        "position": {
+            "Latitude": 52.2623871,
+            "Longitude": 20.9542094
+        },
+        "address": {
+            "Label": "ulica Powązkowska 90, 01-728 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Żoliborz",
+            "Subdistrict": "Sady Żoliborskie",
+            "Street": "ulica Powązkowska",
+            "HouseNumber": "90",
+            "PostalCode": "01-728",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

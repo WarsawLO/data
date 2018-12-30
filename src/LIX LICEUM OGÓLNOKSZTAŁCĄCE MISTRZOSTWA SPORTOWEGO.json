@@ -14,8 +14,32 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Samuela Bogumiła Lindego",
-        "houseNumber": "20"
+        "position": {
+            "Latitude": 52.2356,
+            "Longitude": 21.01038
+        },
+        "address": {
+            "Label": "Warszawa, Woj. Mazowieckie, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "PostalCode": "00-001",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

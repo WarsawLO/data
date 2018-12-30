@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Górska",
-        "houseNumber": "7"
+        "position": {
+            "Latitude": 52.20304,
+            "Longitude": 21.03662
+        },
+        "address": {
+            "Label": "ulica Górska 7, 00-740 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Mokotów",
+            "Subdistrict": "Sielce",
+            "Street": "ulica Górska",
+            "HouseNumber": "7",
+            "PostalCode": "00-740",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

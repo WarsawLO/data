@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Karmelicka",
-        "houseNumber": "26"
+        "position": {
+            "Latitude": 52.25077,
+            "Longitude": 20.98989
+        },
+        "address": {
+            "Label": "ulica Karmelicka 26, 00-181 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Śródmieście",
+            "Subdistrict": "Muranów",
+            "Street": "ulica Karmelicka",
+            "HouseNumber": "26",
+            "PostalCode": "00-181",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

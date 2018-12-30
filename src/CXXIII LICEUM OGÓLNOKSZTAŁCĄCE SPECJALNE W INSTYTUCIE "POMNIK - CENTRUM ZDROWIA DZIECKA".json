@@ -14,8 +14,36 @@
         "dominantDisability": "przewlekle chorzy"
     },
     "location": {
-        "street": "al. Dzieci Polskich",
-        "houseNumber": "20"
+        "position": {
+            "Latitude": 52.20719,
+            "Longitude": 21.19121
+        },
+        "address": {
+            "Label": "aleja Dzieci Polskich 20, 04-730 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Wawer",
+            "Subdistrict": "Międzylesie",
+            "Street": "aleja Dzieci Polskich",
+            "HouseNumber": "20",
+            "PostalCode": "04-730",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

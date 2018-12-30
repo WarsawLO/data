@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Edwarda Warchałowskiego",
-        "houseNumber": "4"
+        "position": {
+            "Latitude": 52.1451,
+            "Longitude": 21.0457
+        },
+        "address": {
+            "Label": "ulica Warchałowskiego 4, 02-776 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Ursynów",
+            "Subdistrict": "Ursynów Centrum",
+            "Street": "ulica Warchałowskiego",
+            "HouseNumber": "4",
+            "PostalCode": "02-776",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

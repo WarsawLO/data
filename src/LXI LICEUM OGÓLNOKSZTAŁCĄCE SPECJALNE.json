@@ -14,8 +14,36 @@
         "dominantDisability": "zagrożeni niedostosowaniem społecznym"
     },
     "location": {
-        "street": "ul. Wincentego Rzymowskiego",
-        "houseNumber": "36"
+        "position": {
+            "Latitude": 52.27151,
+            "Longitude": 21.04292
+        },
+        "address": {
+            "Label": "ulica św. Wincentego 38, 03-526 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Targówek",
+            "Subdistrict": "Targówek Mieszkaniowy",
+            "Street": "ulica św. Wincentego",
+            "HouseNumber": "38",
+            "PostalCode": "03-526",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

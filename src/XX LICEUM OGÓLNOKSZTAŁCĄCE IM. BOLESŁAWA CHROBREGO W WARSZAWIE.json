@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Objazdowa",
-        "houseNumber": "3"
+        "position": {
+            "Latitude": 52.25777,
+            "Longitude": 21.06117
+        },
+        "address": {
+            "Label": "ulica Objazdowa 3, 03-771 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Północ",
+            "Subdistrict": "Szmulowizna",
+            "Street": "ulica Objazdowa",
+            "HouseNumber": "3",
+            "PostalCode": "03-771",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

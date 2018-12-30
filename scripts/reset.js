@@ -20,7 +20,6 @@ const reset = () => new Promise((resolve, reject) => {
 
           let schoolFromFile = JSON.parse(data)
           let differences = diff(school, schoolFromFile)
-          console.log(differences)
           fs.writeFile(filename, JSON.stringify({...school, ...differences}, null, 4), err => console.log(err))
         })
       }

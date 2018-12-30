@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Iwicka",
-        "houseNumber": "47b"
+        "position": {
+            "Latitude": 52.20808,
+            "Longitude": 21.04129
+        },
+        "address": {
+            "Label": "ulica Iwicka 47B, 00-735 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Mokotów",
+            "Subdistrict": "Sielce",
+            "Street": "ulica Iwicka",
+            "HouseNumber": "47B",
+            "PostalCode": "00-735",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

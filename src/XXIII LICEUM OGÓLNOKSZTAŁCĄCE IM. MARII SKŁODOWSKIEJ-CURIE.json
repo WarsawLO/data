@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Naddnieprzańska",
-        "houseNumber": "2/4"
+        "position": {
+            "Latitude": 52.23856,
+            "Longitude": 21.12671
+        },
+        "address": {
+            "Label": "ulica Naddnieprzańska 2/4, 04-205 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Południe",
+            "Subdistrict": "Gocławek",
+            "Street": "ulica Naddnieprzańska",
+            "HouseNumber": "2/4",
+            "PostalCode": "04-205",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,40 @@
         "establishmentDate": "1948-03-10T00:00:00",
         "dependence": "samodzielna",
         "regon": "799084"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "ang"
+                ],
+                98
+            ],
+            [
+                [
+                    "ang",
+                    "wos"
+                ],
+                91
+            ],
+            [
+                [
+                    "biol",
+                    "ang"
+                ],
+                96.6
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "ang",
+                "wos",
+                "biol"
+            ],
+            "pointsRange": [
+                91,
+                98
+            ]
+        }
     }
 }

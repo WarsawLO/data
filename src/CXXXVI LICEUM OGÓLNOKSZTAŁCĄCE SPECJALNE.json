@@ -14,8 +14,36 @@
         "dominantDisability": "słabo widzący"
     },
     "location": {
-        "street": "ul. Koźmińska",
-        "houseNumber": "7"
+        "position": {
+            "Latitude": 52.22481,
+            "Longitude": 21.03701
+        },
+        "address": {
+            "Label": "ulica Koźmińska 7, 00-448 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Śródmieście",
+            "Subdistrict": "Solec",
+            "Street": "ulica Koźmińska",
+            "HouseNumber": "7",
+            "PostalCode": "00-448",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

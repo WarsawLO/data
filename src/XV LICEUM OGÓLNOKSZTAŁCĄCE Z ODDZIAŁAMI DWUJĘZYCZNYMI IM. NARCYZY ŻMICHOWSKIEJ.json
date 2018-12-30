@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Klonowa",
-        "houseNumber": "16"
+        "position": {
+            "Latitude": 52.21267,
+            "Longitude": 21.02308
+        },
+        "address": {
+            "Label": "ulica Klonowa 16, 00-787 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Mokotów",
+            "Subdistrict": "Ujazdów",
+            "Street": "ulica Klonowa",
+            "HouseNumber": "16",
+            "PostalCode": "00-787",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,63 @@
         "establishmentDate": "1919-09-01T00:00:00",
         "dependence": "szkoła lub placówka w zespole",
         "regon": "798883"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "hist",
+                    "pol"
+                ],
+                158.8
+            ],
+            [
+                [
+                    "mat",
+                    "fiz"
+                ],
+                164.6
+            ],
+            [
+                [
+                    "mat"
+                ],
+                162.84
+            ],
+            [
+                [
+                    "pol",
+                    "hist"
+                ],
+                159.8
+            ],
+            [
+                [
+                    "biol",
+                    "chem"
+                ],
+                164.4
+            ],
+            [
+                [
+                    "pol"
+                ],
+                147.84
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "hist",
+                "pol",
+                "mat",
+                "fiz",
+                "biol",
+                "chem"
+            ],
+            "pointsRange": [
+                147.84,
+                164.6
+            ]
+        }
     }
 }

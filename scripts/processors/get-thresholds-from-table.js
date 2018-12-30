@@ -36,7 +36,7 @@ const getThresholdsFromTable = rows => es.map((school, callback) => {
       }
       return [subjects, threshold]
     })
-    school.profiles.overview = {
+    school.profiles['2018'].overview = {
       availableSubjects:  Array.from(availableSubjects),
       pointsRange
     }

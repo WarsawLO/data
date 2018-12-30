@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Kazimierza Wóycickiego",
-        "houseNumber": "1/3"
+        "position": {
+            "Latitude": 52.31293,
+            "Longitude": 20.9175
+        },
+        "address": {
+            "Label": "ulica Kazimierza Wóycickiego 1/3, 01-938 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Bielany",
+            "Subdistrict": "Młociny",
+            "Street": "ulica Kazimierza Wóycickiego",
+            "HouseNumber": "1/3",
+            "PostalCode": "01-938",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

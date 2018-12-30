@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Fundamentowa",
-        "houseNumber": "38/42"
+        "position": {
+            "Latitude": 52.23834,
+            "Longitude": 21.08184
+        },
+        "address": {
+            "Label": "ulica Fundamentowa 38/42, 04-036 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Południe",
+            "Subdistrict": "Grochów",
+            "Street": "ulica Fundamentowa",
+            "HouseNumber": "38/42",
+            "PostalCode": "04-036",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,62 @@
         "establishmentDate": "1997-04-03T00:00:00",
         "dependence": "samodzielna",
         "regon": "12760428"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "pol",
+                    "hist"
+                ],
+                131.2
+            ],
+            [
+                [
+                    "fiz",
+                    "mat"
+                ],
+                135.2
+            ],
+            [
+                [
+                    "geogr",
+                    "mat"
+                ],
+                141.8
+            ],
+            [
+                [
+                    "hist",
+                    "pol",
+                    "wos"
+                ],
+                116.53
+            ],
+            [
+                [
+                    "biol",
+                    "chem",
+                    "mat"
+                ],
+                137.2
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "pol",
+                "hist",
+                "fiz",
+                "mat",
+                "geogr",
+                "wos",
+                "biol",
+                "chem"
+            ],
+            "pointsRange": [
+                116.53,
+                141.8
+            ]
+        }
     }
 }

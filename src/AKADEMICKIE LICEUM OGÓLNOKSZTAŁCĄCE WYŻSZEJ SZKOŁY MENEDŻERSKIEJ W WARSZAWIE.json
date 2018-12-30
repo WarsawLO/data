@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Kawęczyńska",
-        "houseNumber": "36"
+        "position": {
+            "Latitude": 52.25746,
+            "Longitude": 21.057
+        },
+        "address": {
+            "Label": "ulica Kawęczyńska 36, 03-772 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Praga-Północ",
+            "Subdistrict": "Szmulowizna",
+            "Street": "ulica Kawęczyńska",
+            "HouseNumber": "36",
+            "PostalCode": "03-772",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

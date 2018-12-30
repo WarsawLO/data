@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Emiliana Konopczyńskiego",
-        "houseNumber": "4"
+        "position": {
+            "Latitude": 52.23719,
+            "Longitude": 21.02163
+        },
+        "address": {
+            "Label": "ulica Emiliana Konopczyńskiego 4, 00-335 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Śródmieście",
+            "Subdistrict": "Śródmieście Północne",
+            "Street": "ulica Emiliana Konopczyńskiego",
+            "HouseNumber": "4",
+            "PostalCode": "00-335",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,57 @@
         "establishmentDate": "1992-09-01T00:00:00",
         "dependence": "szkoła lub placówka w zespole",
         "regon": "15826346"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "ang",
+                    "niem",
+                    "geogr"
+                ],
+                103.4
+            ],
+            [
+                [
+                    "geogr",
+                    "ang",
+                    "mat"
+                ],
+                136
+            ],
+            [
+                [
+                    "hist",
+                    "pol",
+                    "wos"
+                ],
+                119.4
+            ],
+            [
+                [
+                    "biol",
+                    "ang",
+                    "pol"
+                ],
+                133.4
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "ang",
+                "niem",
+                "geogr",
+                "mat",
+                "hist",
+                "pol",
+                "wos",
+                "biol"
+            ],
+            "pointsRange": [
+                119.4,
+                136
+            ]
+        }
     }
 }

@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Zygmunta Krasińskiego",
-        "houseNumber": "31"
+        "position": {
+            "Latitude": 52.26599,
+            "Longitude": 20.97642
+        },
+        "address": {
+            "Label": "ulica Zygmunta Krasińskiego 31, 01-784 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Żoliborz",
+            "Subdistrict": "Sady Żoliborskie",
+            "Street": "ulica Zygmunta Krasińskiego",
+            "HouseNumber": "31",
+            "PostalCode": "01-784",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

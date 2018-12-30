@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Włościańska",
-        "houseNumber": "35"
+        "position": {
+            "Latitude": 52.27073,
+            "Longitude": 20.96534
+        },
+        "address": {
+            "Label": "ulica Włościańska 35, 01-710 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Żoliborz",
+            "Subdistrict": "Sady Żoliborskie",
+            "Street": "ulica Włościańska",
+            "HouseNumber": "35",
+            "PostalCode": "01-710",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

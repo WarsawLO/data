@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Jana Sobieskiego",
-        "houseNumber": "68"
+        "position": {
+            "Latitude": 52.18462,
+            "Longitude": 21.05552
+        },
+        "address": {
+            "Label": "ulica Jana III Sobieskiego 68, 02-930 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Mokotów",
+            "Subdistrict": "Sadyba",
+            "Street": "ulica Jana III Sobieskiego",
+            "HouseNumber": "68",
+            "PostalCode": "02-930",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
@@ -29,5 +57,47 @@
         "establishmentDate": "2004-09-16T00:00:00",
         "dependence": "szkoła lub placówka w zespole",
         "regon": "13220912"
+    },
+    "profiles": {
+        "detailed": [
+            [
+                [
+                    "hiszp",
+                    "pol",
+                    "hist"
+                ],
+                71.4
+            ],
+            [
+                [
+                    "geogr",
+                    "wos",
+                    "ang"
+                ],
+                87.2
+            ],
+            [
+                [
+                    "geogr",
+                    "wos",
+                    "ang"
+                ],
+                91.2
+            ]
+        ],
+        "overview": {
+            "availableSubjects": [
+                "hiszp",
+                "pol",
+                "hist",
+                "geogr",
+                "wos",
+                "ang"
+            ],
+            "pointsRange": [
+                200,
+                91.2
+            ]
+        }
     }
 }

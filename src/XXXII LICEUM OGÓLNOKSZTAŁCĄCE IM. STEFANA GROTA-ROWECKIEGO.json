@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Stawki",
-        "houseNumber": "10"
+        "position": {
+            "Latitude": 52.25262,
+            "Longitude": 20.98978
+        },
+        "address": {
+            "Label": "ulica Stawki 10, 00-183 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Śródmieście",
+            "Subdistrict": "Muranów",
+            "Street": "ulica Stawki",
+            "HouseNumber": "10",
+            "PostalCode": "00-183",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

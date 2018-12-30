@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "al. \"Solidarności\"",
-        "houseNumber": "101d"
+        "position": {
+            "Latitude": 52.24253,
+            "Longitude": 20.99692
+        },
+        "address": {
+            "Label": "aleja \"Solidarności\" 101D, 00-144 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Śródmieście",
+            "Subdistrict": "Śródmieście Północne",
+            "Street": "aleja \"Solidarności\"",
+            "HouseNumber": "101D",
+            "PostalCode": "00-144",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

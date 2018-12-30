@@ -14,8 +14,36 @@
         "dominantDisability": "nie dotyczy"
     },
     "location": {
-        "street": "ul. Hafciarska",
-        "houseNumber": "80/86"
+        "position": {
+            "Latitude": 52.21687,
+            "Longitude": 21.19055
+        },
+        "address": {
+            "Label": "ulica Hafciarska 80/86, 04-725 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Wawer",
+            "Subdistrict": "Międzylesie",
+            "Street": "ulica Hafciarska",
+            "HouseNumber": "80/86",
+            "PostalCode": "04-725",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",

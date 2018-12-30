@@ -14,8 +14,36 @@
         "dominantDisability": null
     },
     "location": {
-        "street": "ul. Josepha Conrada",
-        "houseNumber": "7"
+        "position": {
+            "Latitude": 52.27132,
+            "Longitude": 20.92722
+        },
+        "address": {
+            "Label": "ulica Josepha Conrada 7, 01-922 Warszawa, Polska",
+            "Country": "POL",
+            "State": "Woj. Mazowieckie",
+            "County": "Warszawa",
+            "City": "Warszawa",
+            "District": "Bielany",
+            "Subdistrict": "Chomiczówka",
+            "Street": "ulica Josepha Conrada",
+            "HouseNumber": "7",
+            "PostalCode": "01-922",
+            "AdditionalData": [
+                {
+                    "value": "Polska",
+                    "key": "CountryName"
+                },
+                {
+                    "value": "Woj. Mazowieckie",
+                    "key": "StateName"
+                },
+                {
+                    "value": "Warszawa",
+                    "key": "CountyName"
+                }
+            ]
+        }
     },
     "meta": {
         "schoolType": "Liceum ogólnokształcące",
